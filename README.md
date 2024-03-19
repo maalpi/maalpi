@@ -1,19 +1,62 @@
-## Olá, me chamo Mateus Pierre !!
-### Bem vindo ao meu perfil GitHub 👋
+<br>
 
-### Linguagens de Programacão e Ferramentas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" /> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=3000&pause=1000&color=2b364a&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mateus;I'm+22+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-### Contatos:
-
-<div>
-
-<a href="https://instagram.com/mateus_pierre_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:pierremateus81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateus-pierre-96799218a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maalpi&theme=shadow-blue&hide_border=true&border_radius=5&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
 </div>
 
+<div align="center" >
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/maalpi/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-<sub>These infographics were generated using [maalpi/metrics](https://github.com/maalpi/metrics)</sub>
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maalpi?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=blue&widget_size=medium&dark=true) 
+
+</div>
+
+### Contatos:
+<div align="left">
+<a href="https://instagram.com/mateus_pierre_" target="_blank">
+<img align="center" height="84" width="84" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+</a>
+
+<a href="mailto:pierremateus81@gmail.com">
+<img align="center"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+</a>
+
+<a  href="https://www.linkedin.com/in/mateus-pierre-96799218a/" target=_blank>
+<img align="center"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+</a>
+
+</div>
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg">
+
+<img align="left" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg">
+
+<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+
+</div>
+
+<br>
+
+<br>
+
+<br>
+
+
