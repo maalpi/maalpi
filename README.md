@@ -15,4 +15,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 </div>
 
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/maalpi)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/maalpi/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+<sub>These infographics were generated using [maalpi/metrics](https://github.com/maalpi/metrics)</sub>
