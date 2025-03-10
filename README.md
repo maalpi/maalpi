@@ -7,11 +7,12 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maalpi&theme=shadow-blue&hide_border=true&border_radius=5&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center" >
-
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maalpi?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=blue&widget_size=medium&dark=true) 
-
-</div>
+<div align="center">
+    <br/>
+    <a href="https://github.com/Platane/snk" target="_blank">
+        <img src="https://raw.githubusercontent.com/maalpi/maalpi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+    </a>
+</div> 
 
 ### Contatos:
 
