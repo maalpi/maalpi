@@ -4,7 +4,10 @@
 
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maalpi&theme=shadow-blue&hide_border=true&border_radius=5&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
+        <a href="#">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maalpi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+                <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalpi&layout=compact&langs_count=7&theme=dracula"/>
+        </a>
 </div>
 
 <div align="center">
