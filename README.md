@@ -21,7 +21,7 @@
         <li>Frontend:  React, Next.js, React Native, Expo, TailwindCSS, Styled Components</li>
         <li>Backend: Node.js, Nest.js, Flask, Prisma, tRPC</li>
         <li>Databases: PostgreSQL, MySQL, Google Firebase</li>
-        <li>Others: Cloud & DevOps: AWS S3, AWS SES, TensorFlow, Pandas, Figma, Socket.io, Jest, Zod</li>
+        <li>Others: AWS S3, AWS SES, TensorFlow, Pandas, Figma, Socket.io, Jest, Zod</li>
       </ul>
       <h2>Contact</h2>
       <ul>
