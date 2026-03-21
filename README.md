@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td  width="400">
-      <img src="don_quixote.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
+    <td  width="450">
+      <img src="don_quixote-.avif" width="600" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Mateus Pierre</h1>
